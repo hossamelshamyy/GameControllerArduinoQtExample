@@ -4,4 +4,4 @@ This project is made to control a ROV using GUI desktop appliction with controll
 
 
 
-!Before import the project to Qt don't forget to add SDL library inside the folder becuase i didn't upload it inside the folder
+**Before import the project to Qt don't forget to add SDL library inside the folder becuase i didn't upload it inside the folder**

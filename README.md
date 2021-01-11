@@ -1,6 +1,6 @@
 # GameControllerArduinoQtExample
 
-## This project is made to control a ROV using GUI desktop appliction with controller , the code of ROV is included to
+## This project is made to control a ROV using GUI desktop appliction with controller , the code of ROV is included too
 
 
 
